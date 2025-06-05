@@ -1,0 +1,66 @@
+{
+    "title": "Brian RS | portafolio",
+    "description": "Portafolio de Brian RS",
+    "image_page": "",
+    "name": "Brian Reyes",
+    "skill": "Estudiante de Ingeniería en Sistemas de Computacionales.",
+    "skillExtra": "Desarrollador web backend.",
+    "media": {
+        "email": [
+            {
+                "icon": "/assets/icons/gmail.svg",
+                "text": "brianrs175@gmail.com",
+                "link": "mailto:brianrs175@gmail.com"
+            }
+        ],
+        "github": [
+            {
+                "icon": "/assets/icons/github.svg",
+                "text": "GitHub",
+                "link": "https://github.com/brianrscode"
+            }
+        ],
+        "linkedin":[
+            {
+                "icon": "/assets/icons/linkedin.svg",
+                "text": "LinkedIn",
+                "link": "https://linkedin.com/in/brian-reyes-sánchez-56551733b"
+            }
+        ]
+    },
+    "about": "Desarrollador apasionado por el desarrollo de software. Destaco por mi adaptación a los cambios, comunicación efectiva y trabajo en equipo. Disfruto de colaborar en proyectos nuevos, compartir conocimiento, mantenerme siempre aprendiendo y estar siempre atento a las tendencias en tecnología.",
+    "projects": [
+        {
+            "id": 1,
+            "image": "/assets/imgs/salud_lince.webp",
+            "title": "Salud Lince",
+            "link": "https://github.com/brianrscode/salud_lince",
+            "description": "Aplicación web para la gestión de consultas médicas en una institución educativa.",
+            "technologies": ["python", "django", "mysql", "bootstrap", "html5"]
+        },
+        {
+            "id": 2,
+            "image": "/assets/imgs/piedra_papel_tijera.webp",
+            "title": "piedra papel tijera",
+            "link": "https://github.com/brianrscode/piedra-papel-tijera-opencv",
+            "description": "Juego de piedra, papel o tijera contra la computadora a usando visión por computadora.",
+            "technologies": ["python", "opencv", "mediapipe"]
+        },
+        {
+            "id": 3,
+            "image": "/assets/imgs/mapaDelitos.webp",
+            "title": "Delitos en CDMX",
+            "link": "https://github.com/brianrscode/delitos-CDMX",
+            "description": "Aplicación web que muestra estadísticas de delitos en CDMX.",
+            "technologies": ["python", "django", "bootstrap", "html5", "pandas", "plotly"]
+        },
+        {
+            "id": 4,
+            "image": "/assets/imgs/app_posts.webp",
+            "title": "Blog Django",
+            "link": "https://github.com/brianrscode/blog-django",
+            "description": "Blog hecho con Django y Bootstrap",
+            "technologies": ["python", "django", "mysql", "bootstrap", "html5"]
+        }
+    ]
+}
