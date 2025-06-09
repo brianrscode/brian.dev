@@ -36,7 +36,7 @@
             "title": "Salud Lince",
             "link": "https://github.com/brianrscode/salud_lince",
             "description": "Aplicación web para la gestión de consultas médicas en una institución educativa.",
-            "technologies": ["python", "django", "mysql", "bootstrap", "html5"]
+            "technologies": ["python", "django", "postgresql", "bootstrap", "html5"]
         },
         {
             "id": 2,
