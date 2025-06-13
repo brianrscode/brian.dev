@@ -1,0 +1,24 @@
+/* :root {
+    color-scheme: light dark;
+} */
+
+body{
+    /* background: #020617; */
+    /* background: #16161D; */
+    position: relative;
+    z-index: -2;
+    background-color: #0a0a0a;
+    background-image: radial-gradient(
+        ellipse 80% 80% at 50% -20%,
+        rgba(120, 119, 198, 0.3),
+        rgba(255, 255, 255, 0)
+    );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/*
+#51E4B8,#21554E,#51E4B8
+
+#2CC9FF,#67E8F9,#2CC9FF */
+
