@@ -1,19 +1,21 @@
 export function BadgeTech({ icono, texto }) {
   // Mapeo de iconos a colores con clases completas de Tailwind
   const colorClasses = {
-    python: "bg-yellow-50 text-yellow-800 ring-yellow-600/20",
-    django: "bg-green-50 text-green-800 ring-green-600/20",
-    react: "bg-sky-50 text-sky-800 ring-sky-600/20",
-    javascript: "bg-amber-50 text-amber-800 ring-amber-600/20",
-    html5: "bg-orange-50 text-orange-800 ring-orange-600/20",
-    css: "bg-indigo-50 text-indigo-800 ring-indigo-600/20",
-    git: "bg-red-50 text-red-800 ring-red-600/20",
-    github: "bg-gray-50 text-gray-800 ring-gray-600/20",
-    mysql: "bg-blue-50 text-blue-800 ring-blue-600/20",
-    postgresql: "bg-blue-50 text-blue-800 ring-blue-600/20",
-    mediapipe: "bg-blue-50 text-blue-800 ring-blue-600/20",
-    bootstrap: "bg-purple-50 text-purple-800 ring-purple-600/20",
-    opencv: "bg-red-50 text-red-800 ring-red-600/20",
+    python: "bg-yellow-50 text-yellow-800 ring-yellow-600/50",
+    django: "bg-green-50 text-green-800 ring-green-600/50",
+    react: "bg-sky-50 text-sky-800 ring-sky-600/50",
+    javascript: "bg-amber-50 text-amber-800 ring-amber-600/50",
+    html5: "bg-orange-50 text-orange-800 ring-orange-600/50",
+    css: "bg-indigo-50 text-indigo-800 ring-indigo-600/50",
+    git: "bg-red-50 text-red-800 ring-red-600/50",
+    github: "bg-gray-50 text-gray-800 ring-gray-600/50",
+    mysql: "bg-blue-50 text-blue-800 ring-blue-600/50",
+    postgresql: "bg-blue-50 text-blue-800 ring-blue-600/50",
+    mediapipe: "bg-blue-50 text-blue-800 ring-blue-600/50",
+    bootstrap: "bg-purple-50 text-purple-800 ring-purple-600/50",
+    opencv: "bg-red-50 text-red-800 ring-red-600/50",
+    drf: "bg-gray-50 text-[#802420] ring-gray-600/50",
+    tailwind: "bg-teal-50 text-teal-800 ring-teal-600/50",
   };
 
   // Clase base común para todos los badges
