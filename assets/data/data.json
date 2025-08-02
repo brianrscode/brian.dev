@@ -40,6 +40,14 @@
         },
         {
             "id": 2,
+            "image": "/assets/imgs/cultivAI.webp",
+            "title": "CultivAI",
+            "link": "https://github.com/brianrscode/CultivAI",
+            "description": "Aplicación web de machine learning para recomendación de cultivos agrícolas",
+            "technologies": ["python", "django", "drf", "bootstrap", "html5"]
+        },
+        {
+            "id": 3,
             "image": "/assets/imgs/piedra_papel_tijera.webp",
             "title": "piedra papel tijera",
             "link": "https://github.com/brianrscode/piedra-papel-tijera-opencv",
@@ -47,20 +55,12 @@
             "technologies": ["python", "opencv", "mediapipe"]
         },
         {
-            "id": 3,
+            "id": 4,
             "image": "/assets/imgs/mapaDelitos.webp",
             "title": "Delitos en CDMX",
             "link": "https://github.com/brianrscode/delitos-CDMX",
             "description": "Aplicación web que muestra estadísticas de delitos en CDMX.",
             "technologies": ["python", "django", "bootstrap", "html5", "pandas", "plotly"]
-        },
-        {
-            "id": 4,
-            "image": "/assets/imgs/app_posts.webp",
-            "title": "Blog Django",
-            "link": "https://github.com/brianrscode/blog-django",
-            "description": "Blog hecho con Django y Bootstrap",
-            "technologies": ["python", "django", "mysql", "bootstrap", "html5"]
         }
     ]
 }
