@@ -34,7 +34,7 @@
             "id": 1,
             "image": "/assets/imgs/salud_lince.webp",
             "title": "Salud Lince",
-            "link": "https://github.com/brianrscode/salud_lince",
+            "link": "https://web-production-d53e3.up.railway.app/",
             "description": "Aplicación web para la gestión de consultas médicas en una institución educativa.",
             "technologies": ["python", "django", "postgresql", "bootstrap", "html5"]
         },
